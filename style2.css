@@ -1,0 +1,53 @@
+body{
+  background-color: lightgray;
+  padding: 5px;
+}
+
+.cancel{
+  width:20px;
+  height: auto;
+  float: right;
+}
+
+.menu{
+  margin-top: 90px;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+a:active{
+  color: blue;
+}
+
+hr{
+  border: 1px solid black;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.as{
+  margin-left: 130px;
+}
+
+.bl{
+  margin-left: 140px;
+  margin-bottom: 0px;
+}
+
+.cl{
+  margin-left: 130px;
+  margin-bottom: 0px;
+}
+
+.pl{
+  margin-left: 120px;
+  margin-bottom: 0px;
+}
+
+.tl{
+  margin-left: 120px;
+  margin-bottom: 0px;
+}
